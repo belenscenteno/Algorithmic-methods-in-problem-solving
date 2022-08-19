@@ -1,1 +1,1 @@
-# M-todos-algor-tmicos-en-resoluci-n-de-problemas
+# Métodos algorítmicos en resolución de problemas
