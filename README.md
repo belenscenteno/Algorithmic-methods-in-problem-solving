@@ -1,9 +1,9 @@
 # Algorithmic methods in problem solving
-Asignatura: Métodos algorítmicos en resolución de problemas
+Subject: Métodos algorítmicos en resolución de problemas
 
-Año: 2019-2020
+Year: 2019-2020
 
-Contenidos:
+Content:
 1. Average complexity and amortized analysis of algorithms 2. Advanced search trees
 2. Priority queues and heaps
 3. Graphs
