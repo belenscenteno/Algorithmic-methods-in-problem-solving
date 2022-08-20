@@ -2,12 +2,13 @@
 Métodos algorítmicos en resolución de problemas
 
 1. Average complexity and amortized analysis of algorithms 2. Advanced search trees
-3. Priority queues and heaps
-4. Graphs
-5. Data structures for disjoint sets
-6. Greedy algorithms
-7. Dynamic programming
-8. Preconditioning and precomputation 3. Branch and bound
+2. Priority queues and heaps
+3. Graphs
+4. Data structures for disjoint sets
+5. Greedy algorithms
+6. Dynamic programming
+7. Preconditioning and precomputation 
+8. Branch and bound
 9. Game trees
 10. Probabilistic algorithms
 11. Computational complexity
