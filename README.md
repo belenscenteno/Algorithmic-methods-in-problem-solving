@@ -3,7 +3,7 @@
 
 *Year:* 2019-2020
 
-*Content:*
+*Contents:*
 1. Average complexity and amortized analysis of algorithms 2. Advanced search trees
 2. Priority queues and heaps
 3. Graphs
